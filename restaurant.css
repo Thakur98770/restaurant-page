@@ -1,5 +1,6 @@
 *body{
-    width: 0px;
+    width: 0;
+    height: 0;
 }
 .abc{
     margin-left: -30px;
